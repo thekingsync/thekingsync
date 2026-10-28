@@ -1,78 +1,81 @@
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0A192F,100:0077B6&height=200&section=header&text=TheKingSync&fontSize=55&fontColor=EAF6FF&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Anime%20%7C%20Night&descAlignY=60&descSize=18" />
+<img src="./anime-eyes.jpg" width="100%" alt="TheKingSync - Dark Anime"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+world+%F0%9F%8C%8C;Coding+my+own+universe+%E2%9C%A8;TheKingSync+%7C+Developer+in+progress" />
+<br/>
 
-### 🌙 Bienvenido a mi universo digital
+# 🩸 TheKingSync
 
-*「 Perdido entre código, música y mundos de anime 」*
+### `WELCOME TO MY WORLD`
 
-[![GitHub](https://img.shields.io/badge/GitHub-TheKingSync-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/TheKingSync)
+**「 Java, SQL, HTML 」**
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=450&lines=Welcome+to+my+world;Coding+in+the+shadows;TheKingSync.exe+%E2%96%A0" alt="Texto animado"/>
 
 </div>
 
 ---
 
-## 🖤 Sobre mí
+## 🕷️ Sobre mí
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
-
-- 👑 **Nombre:** TheKingSync
+- 👑 **Usuario:** TheKingSync
 - 💻 **Intereses:** Programación y tecnología
-- 🌌 **Vibe:** Dark aesthetic
-- 🎧 **Mood:** Anime, música y código
-- 🚀 **Objetivo:** Aprender, crear y mejorar cada día
-
-<br clear="right"/>
+- 🩸 **Estética:** Dark anime / Red eyes
+- 🎧 **Mood:** Música, anime y código
+- ⚡ **Objetivo:** Crear algo que destaque.
 
 ---
 
-## ⚡ Tech Stack
+## ⚔️ Tecnologías
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=FF3030)
+![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=FF3030)
+![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=FF3030)
+![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=FF3030)
+![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=FF3030)
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=FF3030)
 
 </div>
 
 ---
 
-## 🌠 Featured Projects
+## ☠️ Proyectos
 
 <div align="center">
 
-*Mis proyectos aparecerán aquí próximamente.*
+**[01] — Mis creaciones**
+
+Proyectos, experimentos y nuevas ideas.
+
+</div>
+
+<!-- Puedes añadir tus repositorios destacados aquí -->
+
+---
+
+## 🩸 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheKingSync&show_icons=true&bg_color=050505&title_color=FF3030&text_color=E0E0E0&icon_color=FF3030&border_color=401010&hide_border=false" width="95%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKingSync&layout=compact&bg_color=050505&title_color=FF3030&text_color=E0E0E0&border_color=401010" width="95%" alt="Lenguajes más utilizados"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheKingSync&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+### 🩸 「 THE KINGSYNC 」
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKingSync&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+*No limits. No fear. Just code.*
 
-</div>
-
----
-
-<div align="center">
-
-### 👑 TheKingSync
-
-*「 Cada línea de código construye un nuevo mundo. 」*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:0A192F,100:030712&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:400000,100:FF2020&height=100&section=footer" width="100%"/>
 
 </div>
 
