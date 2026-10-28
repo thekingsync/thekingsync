@@ -6,7 +6,7 @@
 
 <br/>
 
-# 🩸 TheKingSync
+# ꧁༒☬ THEKINGSYNC ☬༒꧂
 
 ### `WELCOME TO MY PROFILE`
 
