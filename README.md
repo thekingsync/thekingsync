@@ -30,12 +30,9 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=FF3030)
+
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=FF3030)
-![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=FF3030)
-![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=FF3030)
-![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=FF3030)
-![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=FF3030)
+![HTML](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=FF3030)
 
 </div>
 
@@ -71,7 +68,7 @@ Proyectos, experimentos y nuevas ideas.
 
 ### 🩸 「 THE KINGSYNC 」
 
-*No limits. No fear. Just code.*
+*Just code*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:400000,100:FF2020&height=100&section=footer" width="100%"/>
 
