@@ -22,9 +22,7 @@
 
 - 👑 **Usuario:** TheKingSync
 - 💻 **Intereses:** Programación y tecnología
-- 🩸 **Estética:** Dark anime / Red eyes
-- 🎧 **Mood:** Música, anime y código
-- ⚡ **Objetivo:** Crear algo que destaque.
+- ⚡ **Objetivo:** Crear algo que destaque, y subir mis proyectos de clase.
 
 ---
 
@@ -43,7 +41,7 @@
 
 ---
 
-## ☠️ Proyectos
+##  Proyectos
 
 <div align="center">
 
