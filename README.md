@@ -8,7 +8,7 @@
 
 # 🩸 TheKingSync
 
-### `WELCOME TO MY WORLD`
+### `WELCOME TO MY PROFILE`
 
 **「 Java, SQL, HTML 」**
 
